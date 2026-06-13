@@ -1,0 +1,8 @@
+{
+  "name": "Remix: LUT Maker",
+  "description": "Generate, customize, and export professional 3D .cube LUT files for images and videos with advanced color grading options.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
